@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="lista_colores">
+        <item>PS4</item>
+        <item>SWITCH</item>
+        <item>XBOX</item>
+    </array>
+</resources>

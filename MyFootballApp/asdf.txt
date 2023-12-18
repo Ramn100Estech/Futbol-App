@@ -1,0 +1,46 @@
+{
+    3,
+    "Ginés",
+    "Lateral izquierdo",
+    "19/06/1994",
+    "Peralada (Girona)",
+    1.73,
+    70,
+    "Girona FC",
+    "Ha disputado más de 100 partidos en segunda",
+    "https://pbs.twimg.com/media/FHZTm9xXIAAHYW0?format=jpg&name=small",
+    2,
+    "escuelaestech"
+}
+
+4,
+"Guraya",
+"Raúl Guraya Gómez",
+"Defensa central",
+"14/05/1988",
+"Madrid",
+1.83,
+81,
+"Granada B",
+"Defensa central con gran experiencia en la categoría",
+"https://pbs.twimg.com/media/FGmE7UJWQAsm21C?format=jpg&name=small",
+2,
+""
+}
+
+5, "Monjonell", "Alba Monjonell Vila", "Defensa central", "06/06/1984", "Villar del Arzobispo (Valencia)", 1.85, 80, "Guadalajara", "Trayectoria: Valencia C - Valencia B - Barcelona B- - Gimnástic Tarragona - C.D. Guadalajara", "https://pbs.twimg.com/media/E6r_jBgWEAsGb1F?format=jpg&name=small", 2, ""
+
+6, "Mene", "Enzo Meneghello Peláez", "Mediapunta", "23/03/1989", "Santander", 1.84, 74, "Racing Santander B", "Centrocampista ofensivo con buena zurda", "https://pbs.twimg.com/media/E6rsruuWQAALwT0?format=jpg&name=small", 3, "escuelaestech"
+
+7, "Cimbrón", "Manuel Cimbrón Ortiz", "Mediocentro", "11/12/1984", "Albacete", 1.77, 74, "Valencia Mestalla", "Mediocentro de gran clase y muy técnico, que ayuda a sacar el balón jugado desde atrás", "https://pbs.twimg.com/media/E3n3rHxXwAchTUs?format=jpg&name=small", 3, ""
+
+[8, "Akeda", "Abdoulaye Akeda Opono", "Interior derecho", "04/07/1992", "Camerún", 1.75, 73, "Almería B", "Jugador muy rápido y de desborde. Suele irse de sus rivales por velocidad.", "https://pbs.twimg.com/media/E2tboRgXMAAvRQH?format=jpg&name=small", 3, ""]
+
+
+
+[10, "Pozo", "Víctor Pozo López", "Delantero", "14/11/1992", "Córdoba", 1.83, 78, "Córdoba CF", "Delantero con gran olfato de gol, la pasada temporada marcó 20 goles en la categoría de plata.", "https://pbs.twimg.com/media/EoLc10hXcAECXNq?format=jpg&name=small", 4, ""]
+
+[11, "Ari", "Arístides Martínez López", "Segundo delantero", "24/10/1985", "Granada", 1.76, 70, "CF Motril", "Delantero habilidoso y de gran técnica. Bueno en el último pase.", "https://pbs.twimg.com/media/EdodsQXXsAAxIJA?format=jpg&name=small", 4, ""]
+
+[12, "José Sierra", "José Sierra Urquijo", "Entrenador", "24/19/1965", "Las Palmas (Gran Canaria)", 1.81, 85, "CD Mensajero", "- Como jugador: Málaga (88-92), Marbella (92-93), Mérida (93-94), Espanyol (94-97), Mérida (97-99), Las Palmas (99-05)\n - Como entrenador: 2º entrenador Algeciras (05-06), Mérida (06-07), Ojeador Numancia (07-08), Los Barrios (08-11), Vecindario (11-15)", "", 0, ""]
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.myfootballapp.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/equipoFragment"
+        android:name="com.example.myfootballapp.EquipoFragment"
+        android:label="Equipo"
+        tools:layout="@layout/fragment_equipo" />
+    <fragment
+        android:id="@+id/contactFragment"
+        android:name="com.example.myfootballapp.ContactFragment"
+        android:label="Contacto"
+        tools:layout="@layout/fragment_contact" />
+    <fragment
+        android:id="@+id/galeriaFragment"
+        android:name="com.example.myfootballapp.GaleriaFragment"
+        android:label="Galeria"
+        tools:layout="@layout/fragment_galeria" />
+</navigation>

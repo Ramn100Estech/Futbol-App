@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+    <group ></group>
+    <item
+        android:id="@+id/Equipo"
+        android:title="Equipo">
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/equipoFragment"
+                    android:icon="@drawable/baseline_sports_basketball_24"
+                    android:title="Equipo" />
+                <item
+                    android:id="@+id/galeriaFragment"
+                    android:icon="@drawable/baseline_photo_library_24"
+                    android:title="Galeria" />
+            </group>
+        </menu>
+    </item>
+    <group android:id="@+id/divider2">
+        <item
+            android:id="@+id/Acercade"
+            android:title="Acerca de">
+            <menu>
+                <group>
+                    <item
+                        android:id="@+id/contactFragment"
+                        android:icon="@drawable/baseline_people_24"
+                        android:title="Contacto" />
+                </group>
+            </menu>
+        </item>
+    </group>
+</menu>
